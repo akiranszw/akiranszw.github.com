@@ -18,8 +18,8 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* katsushika cofog */
-  '20130100': { icon: 'icons/civilian-action.svg', color: '#8000A0', bcolor: '#935B3B' },
-  '20130101': { icon: 'icons/civilian-action.svg', color: '#B496D2', bcolor: '#935B3B' },
+  '20130100': { icon: 'icons/civilian-action.svg', color: '#808080', bcolor: '#935B3B' },
+  '20130101': { icon: 'icons/civilian-action.svg', color: '#808080', bcolor: '#935B3B' },
   '20130200': { icon: 'icons/schools.svg', color: '#8000A0', bcolor: '#0AB971' },
   '20130201': { icon: 'icons/pre-school.svg', color: '#B496D2', bcolor: '#0AB971' },
   '20130202': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
