@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Icons for COFOG taxonomy
  *
  */
@@ -18,16 +18,16 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* katsushika cofog */
-  '20130100': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '20130101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '20130200': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130201': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130202': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130203': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130204': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130205': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130206': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '20130207': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
+  '20130100': { icon: 'icons/helping-others.svg', color: '#8000A0', bcolor: '#935B3B' },
+  '20130101': { icon: 'icons/helping-others.svg', color: '#B496D2', bcolor: '#935B3B' },
+  '20130200': { icon: 'icons/schools.svg', color: '#8000A0', bcolor: '#0AB971' },
+  '20130201': { icon: 'icons/pre-school.svg', color: '#B496D2', bcolor: '#0AB971' },
+  '20130202': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
+  '20130203': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
+  '20130204': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
+  '20130205': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
+  '20130206': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
+  '20130207': { icon: 'icons/education.svg', color: '#B496D2', bcolor: '#0AB971' },
   '20130300': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
   '20130301': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
   '20130302': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
