@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Icons for COFOG taxonomy
  *
  */
@@ -10,8 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-/* OpenSpending.identifier = 'katsushika_budget2013'; */
-OpenSpending.identifier = 'yokohama_budget2012';
+OpenSpending.identifier = 'katsushika_budget2013';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -61,12 +60,12 @@ OpenSpending.Styles.Cofog = {
   '20130900': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '20130901': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '20131000': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '20131001': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '20131001': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '20131100': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '20131101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '20131102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '20131101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '20131102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '20131200': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '20131201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '20131201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
 };
 
 
