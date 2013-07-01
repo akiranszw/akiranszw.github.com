@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Icons for COFOG taxonomy
  *
  */
@@ -65,7 +65,7 @@ OpenSpending.Styles.Cofog = {
   '20131101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '20131102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '20131200': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '20131201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '20131201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
