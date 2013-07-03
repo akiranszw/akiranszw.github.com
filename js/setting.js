@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Icons for COFOG taxonomy
  *
  */
@@ -48,7 +48,7 @@ OpenSpending.Styles.Cofog = {
   '20130702': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#938626' },
   '20130703': { icon: 'icons/aaa.svg', color: '#C75746', bcolor: '#938626' },
   '20130704': { icon: 'icons/anchor.svg', color: '#C75746', bcolor: '#938626' },
-  '20130705': { icon: 'icons/forest.svg', color: '#C75746', bcolor: '#938626' },
+  '20130705': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#938626' },
   '20130800': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#C75746' },
   '20130801': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#C75746' },
   '20130802': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#C75746' },
